@@ -5,6 +5,7 @@ import { Boton } from '../components/Boton';
 
 export const CalculadoraScreen = () => {
     return (
+        
         <View style={styles.container}>
             <Text style={styles.resultado}>Calculadora</Text>
             <Text style={styles.resultadoPequenio}>Calculadora</Text>
